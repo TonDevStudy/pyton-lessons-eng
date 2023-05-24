@@ -20,4 +20,13 @@
 - Internal message creation
 - Contract get method parsing
 
-## [LESSON 2](https://github.com/TonDevStudy/pyton-lessons-eng/blob/main/lesson_1) - [Soon]()
+## [LESSON 2](https://github.com/TonDevStudy/pyton-lessons-eng/blob/main/lesson_2) - [YouTube](https://www.youtube.com/watch?v=ipFDBjJFLCw)
+
+- Cell creation
+- Slice parsing
+- Work with liteservers
+- Looking for archive ls from public ls list
+- Transactions parsing from blocks
+- Listening for new transactions in the blockchain
+
+## [LESSON 3](https://github.com/TonDevStudy/pyton-lessons-eng/blob/main/lesson_3) - [Soon]()
