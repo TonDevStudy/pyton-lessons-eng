@@ -29,4 +29,12 @@
 - Transactions parsing from blocks
 - Listening for new transactions in the blockchain
 
-## [LESSON 3](https://github.com/TonDevStudy/pyton-lessons-eng/blob/main/lesson_3) - [Soon]()
+## [LESSON 3](https://github.com/TonDevStudy/pyton-lessons-eng/blob/main/lesson_3) - [YouTube](https://www.youtube.com/watch?v=f3u0g84dFhY)
+
+- Transactions data parsing
+- Transactions statuses
+- Messages parsing
+- Transactions types
+- Jetton transfer parsing
+- Jetton burning parsing
+
