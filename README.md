@@ -44,4 +44,11 @@
 - NFT (batch) minting
 - NFT transfer
 
-## [LESSON 4](https://github.com/TonDevStudy/pyton-lessons-eng/blob/main/lesson_5) - [YouTube](Soon)
+## [LESSON 5](https://github.com/TonDevStudy/pyton-lessons-eng/blob/main/lesson_5) - [YouTube](https://www.youtube.com/watch?v=XPL97vlmfts)
+
+- NFT collection parsing via get methods
+- Single NFT items parsing
+- NFT sale (auction) contracts parsing
+- Getting all NFT items by collection address
+
+## [LESSON 5](https://github.com/TonDevStudy/pyton-lessons-eng/blob/main/lesson_6) - [Soon]()
