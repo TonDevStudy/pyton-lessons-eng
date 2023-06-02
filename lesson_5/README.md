@@ -17,7 +17,6 @@
 - NFT transfer
 
 ## Folder structure
-- `client.py` - initializing of TonLibClient
 - `mint_bodies.py` - deployment bodies creation
 - `mint.py` - NFT minting
 - `transfer.py` - NFT transfer

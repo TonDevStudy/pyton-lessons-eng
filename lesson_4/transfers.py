@@ -3,7 +3,7 @@ import asyncio
 from TonTools import TonCenterClient, Wallet
 from secret import api_key
 
-from lesson_5.client import *
+from client import *
 from wallets import import_wallet
 from mnemoincs import mnemonics
 from tonsdk.contract.token.nft import NFTItem

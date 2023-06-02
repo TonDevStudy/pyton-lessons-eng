@@ -1,6 +1,6 @@
 import asyncio
 
-from mnemoincs import mnemonics
+from tests.mnemoincs import mnemonics
 
 from pytonlib import TonlibClient
 from wallets import import_wallet, get_client

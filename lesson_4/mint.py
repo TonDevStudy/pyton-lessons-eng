@@ -1,6 +1,6 @@
 import asyncio
 
-from lesson_5.client import *
+from client import *
 from mint_bodies import *
 from wallets import import_wallet
 from mnemoincs import mnemonics

@@ -1,9 +1,8 @@
 import asyncio
 from TonTools import Contract, TonCenterClient
 from secret import api_key
-from wallets import get_client
+from tests.wallets import get_client
 
-from pytonlib.utils.tlb import Transaction, deserialize_boc, Slice
 import base64
 
 from tonsdk.boc import Cell
