@@ -1,7 +1,7 @@
 import asyncio
 
 from TonTools import TonCenterClient, Wallet
-from lesson_5.secret import api_key
+from secret import api_key
 
 from lesson_5.client import *
 from wallets import import_wallet
