@@ -40,9 +40,8 @@
 
 ## [LESSON 4](https://github.com/TonDevStudy/pyton-lessons-eng/blob/main/lesson_4) - [YouTube](https://www.youtube.com/watch?v=mBDSZnqpDbo)
 
-- Transactions data parsing
-- Transactions statuses
-- Messages parsing
-- Transactions types
-- Jetton transfer parsing
-- Jetton burning parsing
+- NFT collection creation and deployment
+- NFT (batch) minting
+- NFT transfer
+
+## [LESSON 4](https://github.com/TonDevStudy/pyton-lessons-eng/blob/main/lesson_5) - [YouTube](Soon)
