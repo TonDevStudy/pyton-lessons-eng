@@ -58,7 +58,11 @@
 - Jettons transfer 
 - Jettons burn
 
-## [LESSON 7](https://github.com/TonDevStudy/pyton-lessons-eng/blob/main/lesson_7) - [Youtube](https://www.youtube.com/watch?v=7WhF15NA5P8)
+## [LESSON 7](https://github.com/TonDevStudy/pyton-lessons-eng/blob/main/lesson_7) - [YouTube](https://www.youtube.com/watch?v=7WhF15NA5P8)
 
+- Jetton content parsing
+- Jetton onchain and offchain metadata parsing
+- HashMaps introduction 
+- Jetton wallet parsing
 
 ## [LESSON 7](https://github.com/TonDevStudy/pyton-lessons-eng/blob/main/lesson_8) - [Soon]()

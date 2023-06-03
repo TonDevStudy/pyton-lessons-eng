@@ -163,3 +163,4 @@ cython_debug/
 /tests/
 
 /lesson_6/secret.py
+/lesson_7/secret.py
