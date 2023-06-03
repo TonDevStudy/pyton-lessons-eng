@@ -51,4 +51,14 @@
 - NFT sale (auction) contracts parsing
 - Getting all NFT items by collection address
 
-## [LESSON 5](https://github.com/TonDevStudy/pyton-lessons-eng/blob/main/lesson_6) - [Soon]()
+## [LESSON 6](https://github.com/TonDevStudy/pyton-lessons-eng/blob/main/lesson_6) - [YouTube](https://www.youtube.com/watch?v=cT9M54Y3uc8)
+
+- Jetton minter deployment
+- Jettons mint
+- Jettons transfer 
+- Jettons burn
+
+## [LESSON 7](https://github.com/TonDevStudy/pyton-lessons-eng/blob/main/lesson_7) - [Youtube](https://www.youtube.com/watch?v=7WhF15NA5P8)
+
+
+## [LESSON 7](https://github.com/TonDevStudy/pyton-lessons-eng/blob/main/lesson_8) - [Soon]()

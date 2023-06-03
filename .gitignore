@@ -159,3 +159,7 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 /lesson_1/secret.py
+/lesson_3/secret.py
+/tests/
+
+/lesson_6/secret.py
