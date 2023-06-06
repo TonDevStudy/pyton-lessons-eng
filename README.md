@@ -2,6 +2,8 @@
 [![](https://img.shields.io/badge/%F0%9F%92%8E-TON-grey)](https://ton.org)
 ![](https://img.shields.io/github/last-commit/TonDevStudy/pyton-lessons-eng)
 
+Russian version of these lessons can be found [here](https://github.com/yungwine/pyton-lessons)
+
 ### Useful repos/libs:
 * [tonsdk](https://github.com/tonfactory/tonsdk)
 * [toncenter's pytonlib](https://github.com/toncenter/pytonlib)
@@ -65,4 +67,10 @@
 - HashMaps introduction 
 - Jetton wallet parsing
 
-## [LESSON 7](https://github.com/TonDevStudy/pyton-lessons-eng/blob/main/lesson_8) - [Soon]()
+## [LESSON 8](https://github.com/TonDevStudy/pyton-lessons-eng/blob/main/lesson_8) - [YouTube](https://youtu.be/GLGGk_akkJk)
+
+- Highload wallets: deployment, transfer
+- HashMaps reading
+- Blockchain config parsing 
+
+## [LESSON 9](https://github.com/TonDevStudy/pyton-lessons-eng/blob/main/lesson_9) - [Soon]()
