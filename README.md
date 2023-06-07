@@ -79,4 +79,9 @@ Russian version of these lessons can be found [here](https://github.com/yungwine
 - Off-chain and on-chain signatures
 - Reading contracts data 
 
-## [LESSON 10](https://github.com/TonDevStudy/pyton-lessons-eng/blob/main/lesson_10) - [Soon]()
+## [LESSON 10](https://github.com/TonDevStudy/pyton-lessons-eng/blob/main/lesson_10) - [YouTube](https://www.youtube.com/watch?v=x4rG-aFOqNo)
+
+- TON Node types
+- Launching Liteserver using mytonctrl
+- Launching local toncenter 
+- interaction with your own Liteserver 
