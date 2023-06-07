@@ -73,4 +73,10 @@ Russian version of these lessons can be found [here](https://github.com/yungwine
 - HashMaps reading
 - Blockchain config parsing 
 
-## [LESSON 9](https://github.com/TonDevStudy/pyton-lessons-eng/blob/main/lesson_9) - [Soon]()
+## [LESSON 9](https://github.com/TonDevStudy/pyton-lessons-eng/blob/main/lesson_9) - [YouTube](https://www.youtube.com/watch?v=1pM3mPYZGtQ)
+
+- Multisig wallets creation
+- Off-chain and on-chain signatures
+- Reading contracts data 
+
+## [LESSON 10](https://github.com/TonDevStudy/pyton-lessons-eng/blob/main/lesson_10) - [Soon]()
